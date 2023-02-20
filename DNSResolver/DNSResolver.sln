@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNSResolver", "DNSResolver\DNSResolver.csproj", "{43A8F8E4-69AC-405D-BD1D-3D43DD71A965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A8F8E4-69AC-405D-BD1D-3D43DD71A965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A8F8E4-69AC-405D-BD1D-3D43DD71A965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A8F8E4-69AC-405D-BD1D-3D43DD71A965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A8F8E4-69AC-405D-BD1D-3D43DD71A965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5041BCF1-111D-4BCC-A0A7-E5549B0333E9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\r3mad\source\repos\DNSResolver\DNSResolver\bin\Debug\DNSResolver.exe.config
+C:\Users\r3mad\source\repos\DNSResolver\DNSResolver\bin\Debug\DNSResolver.exe
+C:\Users\r3mad\source\repos\DNSResolver\DNSResolver\bin\Debug\DNSResolver.pdb
+C:\Users\r3mad\source\repos\DNSResolver\DNSResolver\obj\Debug\DNSResolver.csproj.AssemblyReference.cache
+C:\Users\r3mad\source\repos\DNSResolver\DNSResolver\obj\Debug\DNSResolver.csproj.SuggestedBindingRedirects.cache
+C:\Users\r3mad\source\repos\DNSResolver\DNSResolver\obj\Debug\DNSResolver.csproj.CoreCompileInputs.cache
+C:\Users\r3mad\source\repos\DNSResolver\DNSResolver\obj\Debug\DNSResolver.exe
+C:\Users\r3mad\source\repos\DNSResolver\DNSResolver\obj\Debug\DNSResolver.pdb
